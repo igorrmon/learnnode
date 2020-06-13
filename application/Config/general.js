@@ -1,4 +1,4 @@
 module.exports = {
     PORT: process.env.PORT || 8000,
-    CONNECT: 'mongodb+srv://admin:suPIKmizFMLqpiT2@db-aguia-xfcbg.mongodb.net/test?retryWrites=true&w=majority'
+    CONNECT: 'mongodb+srv://prosoft:prosoft@aircnc-unsln.mongodb.net/users?retryWrites=true&w=majority'
 }
