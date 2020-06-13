@@ -1,4 +1,4 @@
 module.exports = {
     PORT: process.env.PORT || 8000,
-    CONNECT: 'mongodb+srv://prosoft:prosoft@aircnc-unsln.mongodb.net/users?retryWrites=true&w=majority'
+    CONNECT: 'mongodb+srv://omnistack:omnistack@cluster0-3tzeo.mongodb.net/user?retryWrites=true&w=majority'
 }
